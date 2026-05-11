@@ -1,7 +1,7 @@
 # Loan-Data-Analysis
 # 📊 Bank Loan Report — Power BI Dashboard
 
-![Power BI]()
+![Power BI](https://github.com/abhisheknirmal02-lab/Loan-Data-Analysis/blob/main/USA%20LOAN%20ANALYSIS.pbix)
 ![SQL]()
 ![Finance]()
 
