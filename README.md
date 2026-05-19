@@ -1,7 +1,4 @@
-# Loan-Data-Analysis
 # 📊 USA Loan Analysis Report — Power BI Dashboard
-
-
 
 
 A comprehensive, multi-page **usa loan analytics dashboard** built in Power BI, designed to give financial analysts and stakeholders deep visibility into loan portfolio performance, borrower risk, and funding trends — all in one interactive report.
